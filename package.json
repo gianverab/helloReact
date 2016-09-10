@@ -1,0 +1,24 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "basic app built with reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianverab/helloReact.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "jsx"
+  ],
+  "author": "Gian Vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gianverab/helloReact/issues"
+  },
+  "homepage": "https://github.com/gianverab/helloReact#readme"
+}
